@@ -71,7 +71,7 @@ hilang1.addEventListener('click', () => {
   }).then((result) => {
     let i = 0;
     const speed = 50;
-    let txt = `Hallo cantik, aku gabut gess. Ini coba-coba lagi belajar coding wkwkwk dan lewat pesan ini aku mau bilang "Ayang semangat belajarnya yaa, semoga dilancarin testnya, persiapannya harus mateng. Tapi jangan dipaksain, harus ada waktu istirahatnya juga yaaa😚" `;
+    let txt = `Hallo cantik, selamat ulang tahun yang ke 17 ya? wkwkwk huaaaa ayang aku masih muda ternyata😘 Ayang semoga di umur yang ke-26 ini ayang semakin baik, semakin dewasa , semakin sukses juga semakin cantik😙 sebenernya kalo disebutin semua doa-doa aku gabakal cukup di pesan singlat ini sih heheheee. Lebih enak lanjut dicall aja yaa cinta, pesan ini langsung connect wa aku kok🫰" `;
 
     const typeWriter = () => {
       if (i < txt.length) {
