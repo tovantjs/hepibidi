@@ -31,7 +31,7 @@ jam.innerHTML = `${hour}:${minutes}`
 // Dirubah 
 const pengirim = "Baginda Raja♡";
 const nomorWa = "6283894930213" // awalan nomor 0 harus di awalin 62
-const textWa = "Balesnya call wa aja yaa wkwkwk klik aja itu🤭"
+const textWa = "Balesnya call wa aja yaa🤭"
 
 if (pengirim) {
   nama.innerHTML = pengirim;
